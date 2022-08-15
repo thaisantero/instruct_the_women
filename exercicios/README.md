@@ -1,1 +1,1 @@
-## Exercícios desenvolvidos sobre orientação a objetos, herança, polimorfismo, encapsulamento em Pyhton.
+## Exercícios desenvolvidos sobre orientação a objetos, getter, setter, herança, polimorfismo, encapsulamento em Pyhton.
